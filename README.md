@@ -3,7 +3,7 @@
 - 🌱 Estou aprendendo python
 - 😄 Pronouns: ela/dela
 
-![anime](https://github.com/user-attachments/assetshttps://pin.it/6G8RlCsVF)
+![anime](https://github.com/user-attachments/assets/https://pin.it/6G8RlCsVF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencepsd&layout=compact)
 
