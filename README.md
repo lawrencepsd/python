@@ -8,10 +8,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencepsd&layout=compact)
  
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-          
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
 
          
