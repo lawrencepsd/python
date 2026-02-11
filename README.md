@@ -9,7 +9,7 @@
 
 <h1> Linguagens mais utilizadas </h1>
             <i class="devicon-python-plain"></i>
-             <i class="devicon-html5-plain"></i>
+         
           
           
           
