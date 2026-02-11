@@ -8,7 +8,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencepsd&layout=compact)
 
 <h1> Linguagens mais utilizadas </h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+            <i class="devicon-python-plain"></i>
+             <i class="devicon-html5-plain"></i>
+          
           
           
           
